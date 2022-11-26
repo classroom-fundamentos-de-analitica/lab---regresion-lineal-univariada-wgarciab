@@ -1,5 +1,5 @@
 """
-Regresión Lineal Univariada
+Regresión Lineal Univariada 
 -----------------------------------------------------------------------------------------
 
 En este laboratio se construirá un modelo de regresión lineal univariado.
